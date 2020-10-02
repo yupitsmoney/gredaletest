@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1584" height="772" viewBox="0 0 1584 772">
+  <defs>
+    <filter id="_9515f2b1fa5354610ada35dbb24e50d3" x="0" y="0" width="1584" height="772" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_155" data-name="Group 155" transform="translate(-172 -3263)">
+    <g transform="matrix(1, 0, 0, 1, 172, 3263)" filter="url(#_9515f2b1fa5354610ada35dbb24e50d3)">
+      <rect id="_9515f2b1fa5354610ada35dbb24e50d3-2" data-name="9515f2b1fa5354610ada35dbb24e50d3" width="1434" height="622" rx="16" transform="translate(75 72)" fill="#07284f"/>
+    </g>
+    <text id="AAMI_Level_2_Isolation_Gown_Durable_Multi_ply_SMS_material" data-name="AAMI Level 2 Isolation Gown Durable Multi ply SMS material" transform="translate(958 3435)" fill="#ff6464" font-size="44" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="-628.332" y="0">AAMI Level 2 Isolation Gown Durable Multi ply SMS material</tspan></text>
+    <text id="Recommended_Uses:_ICU_Med_Surg_Contact_and_Airborne_situations" data-name="Recommended Uses: ICU, Med/Surg, Contact and Airborne situations" transform="translate(327 3469)" fill="#fff" font-size="28" font-family="Helvetica"><tspan x="197.561" y="22">Recommended Uses: ICU, Med/Surg, Contact and Airborne situations</tspan></text>
+    <text id="_100_Polypropylene_Polyethylne_MadeinNorthAmerica_LaminatedNon-WovenFluidBarrierProtection_Tiesat_Neck_and_Back_ElasticWrists_Disposable" data-name="»100%Polypropylene+Polyethylne
+» MadeinNorthAmerica
+» LaminatedNon-WovenFluidBarrierProtection 
+» Tiesat Neck and Back
+» ElasticWrists
+» Disposable" transform="translate(386 3621)" fill="#fff" font-size="26" font-family="Helvetica"><tspan x="0" y="20">»100%Polypropylene+Polyethylne</tspan><tspan x="0" y="51">» MadeinNorthAmerica</tspan><tspan x="0" y="82">» LaminatedNon-</tspan><tspan x="0" y="113">WovenFluidBarrierProtection </tspan><tspan x="0" y="144">» Tiesat Neck and Back</tspan><tspan x="0" y="175">» ElasticWrists</tspan><tspan x="0" y="206">» Disposable</tspan></text>
+    <line id="Line_49" data-name="Line 49" x2="591.822" transform="translate(958 3612.853)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_50" data-name="Line 50" x2="591.822" transform="translate(958 3646.074)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_51" data-name="Line 51" x2="591.822" transform="translate(958 3679.295)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_52" data-name="Line 52" x2="591.822" transform="translate(958 3712.516)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_53" data-name="Line 53" x2="591.822" transform="translate(958 3745.737)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_54" data-name="Line 54" x2="591.822" transform="translate(958 3778.958)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_55" data-name="Line 55" x2="591.822" transform="translate(958 3812.179)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_56" data-name="Line 56" x2="591.822" transform="translate(958 3845.401)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_57" data-name="Line 57" x2="591.822" transform="translate(958 3878.622)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_58" data-name="Line 58" y2="296.024" transform="translate(1143.455 3582.598)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_59" data-name="Line 59" y2="296.024" transform="translate(1451.938 3582.598)" fill="none" stroke="#fff" stroke-width="1"/>
+    <text id="Item_No._" data-name="Item No. " transform="translate(994 3583)" fill="#fff" font-size="16" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="12">Item No. </tspan></text>
+    <text id="Description" transform="translate(1249 3583)" fill="#fff" font-size="16" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="12">Description</tspan></text>
+    <text id="Pkg." transform="translate(1488 3583)" fill="#fff" font-size="16" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="12">Pkg.</tspan></text>
+    <text id="_100_cs" data-name="100/cs" transform="translate(1476 3618)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">100/cs</tspan></text>
+    <text id="_100_cs-2" data-name="100/cs" transform="translate(1476 3653)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">100/cs</tspan></text>
+    <text id="_100_cs-3" data-name="100/cs" transform="translate(1476 3686)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">100/cs</tspan></text>
+    <text id="_100_cs-4" data-name="100/cs" transform="translate(1476 3721)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">100/cs</tspan></text>
+    <text id="_100_cs-5" data-name="100/cs" transform="translate(1476 3754)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">100/cs</tspan></text>
+    <text id="_100_cs-6" data-name="100/cs" transform="translate(1476 3787)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">100/cs</tspan></text>
+    <text id="_100_cs-7" data-name="100/cs" transform="translate(1476 3821)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">100/cs</tspan></text>
+    <text id="_100_cs-8" data-name="100/cs" transform="translate(1476 3855)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">100/cs</tspan></text>
+    <text id="Med_White" data-name="Med White" transform="translate(1254 3618)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">Med White</tspan></text>
+    <text id="Large_White" data-name="Large White" transform="translate(1250 3653)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">Large White</tspan></text>
+    <text id="XL_White" data-name="XL White" transform="translate(1258 3686)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">XL White</tspan></text>
+    <text id="XXL_White" data-name="XXL White" transform="translate(1256 3721)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">XXL White</tspan></text>
+    <text id="Med_Blue" data-name="Med Blue" transform="translate(1257 3754)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">Med Blue</tspan></text>
+    <text id="Large_Blue" data-name="Large Blue" transform="translate(1251 3787)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">Large Blue</tspan></text>
+    <text id="XL_Blue" data-name="XL Blue" transform="translate(1264 3822)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">XL Blue</tspan></text>
+    <text id="XXL_Blue" data-name="XXL Blue" transform="translate(1257 3855)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">XXL Blue</tspan></text>
+    <text id="UC503-MED-WHT" transform="translate(977 3618)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">UC503-MED-WHT</tspan></text>
+    <text id="UC503-LRG-WHT" transform="translate(977 3653)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">UC503-LRG-WHT</tspan></text>
+    <text id="UC503-XL-WHT" transform="translate(977 3686)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">UC503-XL-WHT</tspan></text>
+    <text id="UC503-XXL-WHT" transform="translate(977 3721)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">UC503-XXL-WHT</tspan></text>
+    <text id="UC503-MED-BLU" transform="translate(977 3754)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">UC503-MED-BLU</tspan></text>
+    <text id="UC503-LRG-BLU" transform="translate(977 3786)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">UC503-LRG-BLU</tspan></text>
+    <text id="UC503-XL-BLU" transform="translate(977 3820)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">UC503-XL-BLU</tspan></text>
+    <text id="UC503-XXL-BLU" transform="translate(977 3852)" fill="#fff" font-size="14" font-family="Helvetica"><tspan x="0" y="11">UC503-XXL-BLU</tspan></text>
+  </g>
+</svg>

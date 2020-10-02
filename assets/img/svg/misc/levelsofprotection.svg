@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1427" height="473" viewBox="0 0 1427 473">
+  <g id="Group_151" data-name="Group 151" transform="translate(-248 -830)">
+    <g id="Rectangle_187" data-name="Rectangle 187" transform="translate(248 830)" fill="#07284f" stroke="#707070" stroke-width="1">
+      <rect width="1427" height="47" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1426" height="46" fill="none"/>
+    </g>
+    <text id="Level_1" data-name="Level 1" transform="translate(473 840)" fill="#fff" font-size="26" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="26.916" y="20">Level 1</tspan></text>
+    <g id="Rectangle_189" data-name="Rectangle 189" transform="translate(248 877)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="192" height="89" stroke="none"/>
+      <rect x="0.5" y="0.5" width="191" height="88" fill="none"/>
+    </g>
+    <g id="Rectangle_190" data-name="Rectangle 190" transform="translate(248 966)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="192" height="169" stroke="none"/>
+      <rect x="0.5" y="0.5" width="191" height="168" fill="none"/>
+    </g>
+    <g id="Rectangle_192" data-name="Rectangle 192" transform="translate(248 1135)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="192" height="168" stroke="none"/>
+      <rect x="0.5" y="0.5" width="191" height="167" fill="none"/>
+    </g>
+    <g id="Rectangle_193" data-name="Rectangle 193" transform="translate(440 877)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="207" height="89" stroke="none"/>
+      <rect x="0.5" y="0.5" width="206" height="88" fill="none"/>
+    </g>
+    <g id="Rectangle_194" data-name="Rectangle 194" transform="translate(440 966)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="207" height="169" stroke="none"/>
+      <rect x="0.5" y="0.5" width="206" height="168" fill="none"/>
+    </g>
+    <g id="Rectangle_195" data-name="Rectangle 195" transform="translate(440 1135)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="207" height="168" stroke="none"/>
+      <rect x="0.5" y="0.5" width="206" height="167" fill="none"/>
+    </g>
+    <g id="Rectangle_196" data-name="Rectangle 196" transform="translate(647 877)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="343" height="89" stroke="none"/>
+      <rect x="0.5" y="0.5" width="342" height="88" fill="none"/>
+    </g>
+    <g id="Rectangle_197" data-name="Rectangle 197" transform="translate(647 966)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="343" height="169" stroke="none"/>
+      <rect x="0.5" y="0.5" width="342" height="168" fill="none"/>
+    </g>
+    <g id="Rectangle_198" data-name="Rectangle 198" transform="translate(647 1135)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="343" height="168" stroke="none"/>
+      <rect x="0.5" y="0.5" width="342" height="167" fill="none"/>
+    </g>
+    <g id="Rectangle_199" data-name="Rectangle 199" transform="translate(990 877)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="342" height="89" stroke="none"/>
+      <rect x="0.5" y="0.5" width="341" height="88" fill="none"/>
+    </g>
+    <g id="Rectangle_200" data-name="Rectangle 200" transform="translate(990 966)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="342" height="169" stroke="none"/>
+      <rect x="0.5" y="0.5" width="341" height="168" fill="none"/>
+    </g>
+    <g id="Rectangle_201" data-name="Rectangle 201" transform="translate(990 1135)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="342" height="168" stroke="none"/>
+      <rect x="0.5" y="0.5" width="341" height="167" fill="none"/>
+    </g>
+    <g id="Rectangle_202" data-name="Rectangle 202" transform="translate(1332 877)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="343" height="89" stroke="none"/>
+      <rect x="0.5" y="0.5" width="342" height="88" fill="none"/>
+    </g>
+    <g id="Rectangle_203" data-name="Rectangle 203" transform="translate(1332 966)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="343" height="169" stroke="none"/>
+      <rect x="0.5" y="0.5" width="342" height="168" fill="none"/>
+    </g>
+    <g id="Rectangle_204" data-name="Rectangle 204" transform="translate(1332 1135)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="343" height="168" stroke="none"/>
+      <rect x="0.5" y="0.5" width="342" height="167" fill="none"/>
+    </g>
+    <text id="Level_2" data-name="Level 2" transform="translate(748 840)" fill="#fff" font-size="26" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="26.916" y="20">Level 2</tspan></text>
+    <text id="Level_3" data-name="Level 3" transform="translate(1090 840)" fill="#fff" font-size="26" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="26.916" y="20">Level 3</tspan></text>
+    <text id="Level_4" data-name="Level 4" transform="translate(1432 840)" fill="#fff" font-size="26" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="26.916" y="20">Level 4</tspan></text>
+    <text id="Test" transform="translate(273 908)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="54.494" y="14">Test</tspan></text>
+    <text id="Requirements_at_4_AQL" data-name="Requirements at 4% AQL" transform="translate(273 1037)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="4.968" y="14">Requirements at </tspan><tspan x="37.975" y="36">4% AQL</tspan></text>
+    <text id="Anticipated_Risk_of_Exposure" data-name="Anticipated Risk of Exposure" transform="translate(273 1195)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="6.471" y="14">Anticipated Risk </tspan><tspan x="22.972" y="36">of Exposure</tspan></text>
+    <text id="Moderate" transform="translate(748 1207)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="32.979" y="14">Moderate</tspan></text>
+    <g id="Rectangle_205" data-name="Rectangle 205" transform="translate(647 877)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="172" height="89" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="88" fill="none"/>
+    </g>
+    <g id="Rectangle_206" data-name="Rectangle 206" transform="translate(647 966)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="172" height="169" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="168" fill="none"/>
+    </g>
+    <g id="Rectangle_207" data-name="Rectangle 207" transform="translate(990 877)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="171" height="89" stroke="none"/>
+      <rect x="0.5" y="0.5" width="170" height="88" fill="none"/>
+    </g>
+    <g id="Rectangle_208" data-name="Rectangle 208" transform="translate(990 966)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="171" height="169" stroke="none"/>
+      <rect x="0.5" y="0.5" width="170" height="168" fill="none"/>
+    </g>
+    <g id="Rectangle_209" data-name="Rectangle 209" transform="translate(1332 877)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="172" height="89" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="88" fill="none"/>
+    </g>
+    <g id="Rectangle_210" data-name="Rectangle 210" transform="translate(1332 966)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="172" height="169" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="168" fill="none"/>
+    </g>
+    <text id="Moderate_to_High" data-name="Moderate to High" transform="translate(1090 1207)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="1.962" y="14">Moderate to High</tspan></text>
+    <text id="High" transform="translate(1433 1207)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="52.49" y="14">High</tspan></text>
+    <text id="AATCC_42:2000" data-name="AATCC 42:2000" transform="translate(473 911)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="6.128" y="14">AATCC 42:2000</tspan></text>
+    <text id="AATCC_42:2000-2" data-name="AATCC 
+42:2000" transform="translate(662 901)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="41.161" y="14">AATCC </tspan><tspan x="38.467" y="36">42:2000</tspan></text>
+    <text id="AATCC_127:1998" data-name="AATCC 
+127:1998" transform="translate(829 901)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="41.161" y="14">AATCC </tspan><tspan x="33.462" y="36">127:1998</tspan></text>
+    <text id="AATCC_42:2000-3" data-name="AATCC 
+42:2000" transform="translate(1003 901)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="41.161" y="14">AATCC </tspan><tspan x="38.467" y="36">42:2000</tspan></text>
+    <text id="AATCC_127:2000" data-name="AATCC 
+127:2000" transform="translate(1170 901)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="41.161" y="14">AATCC </tspan><tspan x="33.462" y="36">127:2000</tspan></text>
+    <text id="AATCC_42:2000-4" data-name="AATCC 
+42:2000" transform="translate(1344 901)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="41.161" y="14">AATCC </tspan><tspan x="38.467" y="36">42:2000</tspan></text>
+    <text id="AATCC_42:2000-5" data-name="AATCC 
+42:2000" transform="translate(1511 901)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="41.161" y="14">AATCC </tspan><tspan x="38.467" y="36">42:2000</tspan></text>
+    <text id="Spray_Impact_̃_1.0g" data-name="Spray Impact  ̃ 1.0g" transform="translate(662 1029)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="11.724" y="14" xml:space="preserve">Spray Impact  ̃ </tspan><tspan x="53.483" y="36">1.0g</tspan></text>
+    <text id="Hydrostatic_Pressure_20cm" data-name="Hydrostatic Pressure °20cm" transform="translate(829 1029)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="25.987" y="14">Hydrostatic </tspan><tspan x="6.879" y="36">Pressure °20cm</tspan></text>
+    <text id="Spray_Impact_̃_1.0g-2" data-name="Spray Impact  ̃ 1.0g" transform="translate(1005 1029)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="11.724" y="14" xml:space="preserve">Spray Impact  ̃ </tspan><tspan x="53.483" y="36">1.0g</tspan></text>
+    <text id="Hydrostatic_Pressure_50cm" data-name="Hydrostatic Pressure °50cm" transform="translate(1172 1029)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="25.987" y="14">Hydrostatic </tspan><tspan x="6.879" y="36">Pressure °50cm</tspan></text>
+    <text id="Spray_Impact_̃_1.0g-3" data-name="Spray Impact  ̃ 1.0g" transform="translate(1347 1029)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="11.724" y="14" xml:space="preserve">Spray Impact  ̃ </tspan><tspan x="53.483" y="36">1.0g</tspan></text>
+    <text id="Hydrostatic_Pressure_50_cm" data-name="Hydrostatic Pressure ° 50 cm" transform="translate(1514 1029)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="25.987" y="14">Hydrostatic </tspan><tspan x="1.878" y="36">Pressure ° 50 cm</tspan></text>
+    <text id="Water_Impact_̃_4.5g" data-name="Water Impact  ̃ 4.5g" transform="translate(473 1029)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="11.562" y="14" xml:space="preserve">Water Impact  ̃ </tspan><tspan x="53.483" y="36">4.5g</tspan></text>
+    <text id="Low" transform="translate(473 1208)" fill="#56616b" font-size="18" font-family="Helvetica"><tspan x="54.49" y="14">Low</tspan></text>
+  </g>
+</svg>

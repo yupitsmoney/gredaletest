@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1584" height="772" viewBox="0 0 1584 772">
+  <defs>
+    <filter id="_9515f2b1fa5354610ada35dbb24e50d3" x="0" y="0" width="1584" height="772" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_9515f2b1fa5354610ada35dbb24e50d3-2" x="154" y="344" width="408" height="344" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-2"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_9515f2b1fa5354610ada35dbb24e50d3-3" x="443" y="344" width="408" height="344" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-3"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_9515f2b1fa5354610ada35dbb24e50d3-4" x="733" y="344" width="408" height="344" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-4"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_9515f2b1fa5354610ada35dbb24e50d3-5" x="1022" y="344" width="408" height="344" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-5"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_203" data-name="Group 203" transform="translate(-6574 -3881)">
+    <g id="Group_200" data-name="Group 200">
+      <g id="Group_181" data-name="Group 181" transform="translate(6402 618)">
+        <g transform="matrix(1, 0, 0, 1, 172, 3263)" filter="url(#_9515f2b1fa5354610ada35dbb24e50d3)">
+          <rect id="_9515f2b1fa5354610ada35dbb24e50d3-6" data-name="9515f2b1fa5354610ada35dbb24e50d3" width="1434" height="622" rx="16" transform="translate(75 72)" fill="#07284f"/>
+        </g>
+        <text id="AAMI_Level_3_Isolation_Gown_Durable_Multi_ply_PP_PE_material" data-name="AAMI Level 3 Isolation Gown Durable Multi ply PP+PE material" transform="translate(958 3435)" fill="#ff6464" font-size="44" font-family="Archivo-Bold, Archivo" font-weight="700"><tspan x="-652.256" y="0">AAMI Level 3 Isolation Gown Durable Multi ply PP+PE material</tspan></text>
+        <text id="Recommended_Uses:_ICU_Med_Surg_Contact_and_Airborne_situations" data-name="Recommended Uses: ICU, Med/Surg, Contact and Airborne situations" transform="translate(327 3469)" fill="#fff" font-size="28" font-family="Archivo-Bold, Archivo" font-weight="700"><tspan x="168.664" y="25">Recommended Uses: ICU, Med/Surg, Contact and Airborne situations</tspan></text>
+      </g>
+      <text id="_100_Polypropylene_Polyethylne_" data-name="» 100%Polypropylene+Polyethylne
+" transform="translate(6830 4178)" fill="#fff" font-size="22" font-family="Archivo-Medium, Archivo" font-weight="500"><tspan x="0" y="0">» 100%Polypropylene+Polyethylne</tspan><tspan x="0" y="24"></tspan></text>
+      <text id="_Tiesat_Neck_and_Black" data-name="» Tiesat Neck and Black" transform="translate(6830 4226)" fill="#fff" font-size="22" font-family="Archivo-Medium, Archivo" font-weight="500"><tspan x="0" y="0">» Tiesat Neck and Black</tspan></text>
+      <text id="_Made_in_North_America" data-name="» Made in North America" transform="translate(7243 4178)" fill="#fff" font-size="22" font-family="Archivo-Medium, Archivo" font-weight="500"><tspan x="0" y="0">» Made in North America</tspan></text>
+      <text id="_Laminated_Non-Woven_Fluid_Barrier_Protection" data-name="» Laminated Non-Woven Fluid 
+Barrier Protection" transform="translate(7243 4226)" fill="#fff" font-size="22" font-family="Archivo-Medium, Archivo" font-weight="500"><tspan x="0" y="0">» Laminated Non-Woven Fluid </tspan><tspan x="0" y="24">Barrier Protection</tspan></text>
+      <text id="_Disposable" data-name="» Disposable" transform="translate(7656 4178)" fill="#fff" font-size="22" font-family="Archivo-Medium, Archivo" font-weight="500"><tspan x="0" y="0">» Disposable</tspan></text>
+      <text id="_Elastic_Wrists" data-name="» Elastic Wrists" transform="translate(7656 4226)" fill="#fff" font-size="22" font-family="Archivo-Medium, Archivo" font-weight="500"><tspan x="0" y="0">» Elastic Wrists</tspan></text>
+      <g id="Group_191" data-name="Group 191" transform="translate(6803 4297)">
+        <g transform="matrix(1, 0, 0, 1, -229, -416)" filter="url(#_9515f2b1fa5354610ada35dbb24e50d3-2)">
+          <rect id="_9515f2b1fa5354610ada35dbb24e50d3-7" data-name="9515f2b1fa5354610ada35dbb24e50d3" width="258" height="194" rx="16" transform="translate(229 416)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_192" data-name="Group 192" transform="translate(7092.336 4297)">
+        <g transform="matrix(1, 0, 0, 1, -518.34, -416)" filter="url(#_9515f2b1fa5354610ada35dbb24e50d3-3)">
+          <rect id="_9515f2b1fa5354610ada35dbb24e50d3-8" data-name="9515f2b1fa5354610ada35dbb24e50d3" width="258" height="194" rx="16" transform="translate(518 416)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_193" data-name="Group 193" transform="translate(7381.672 4297)">
+        <g transform="matrix(1, 0, 0, 1, -807.67, -416)" filter="url(#_9515f2b1fa5354610ada35dbb24e50d3-4)">
+          <rect id="_9515f2b1fa5354610ada35dbb24e50d3-9" data-name="9515f2b1fa5354610ada35dbb24e50d3" width="258" height="194" rx="16" transform="translate(808 416)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_194" data-name="Group 194" transform="translate(7671.009 4297)">
+        <g transform="matrix(1, 0, 0, 1, -1097.01, -416)" filter="url(#_9515f2b1fa5354610ada35dbb24e50d3-5)">
+          <rect id="_9515f2b1fa5354610ada35dbb24e50d3-10" data-name="9515f2b1fa5354610ada35dbb24e50d3" width="258" height="194" rx="16" transform="translate(1097 416)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="S" transform="translate(6932 4438)" fill="#ff6464" font-size="130" font-family="Archivo-Bold, Archivo" font-weight="700"><tspan x="-43.355" y="0">S</tspan></text>
+      <text id="M" transform="translate(7221 4438)" fill="#ff6464" font-size="130" font-family="Archivo-Bold, Archivo" font-weight="700"><tspan x="-54.145" y="0">M</tspan></text>
+      <text id="L" transform="translate(7511 4438)" fill="#ff6464" font-size="130" font-family="Archivo-Bold, Archivo" font-weight="700"><tspan x="-39.715" y="0">L</tspan></text>
+      <text id="XL" transform="translate(7809 4438)" fill="#ff6464" font-size="130" font-family="Archivo-Bold, Archivo" font-weight="700"><tspan x="-83.07" y="0">XL</tspan></text>
+    </g>
+  </g>
+</svg>
